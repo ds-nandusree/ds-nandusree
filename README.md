@@ -1,8 +1,10 @@
+# Diguvasadum Nandusree
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Diguvasadum%20Nandusree&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Diguvasadum%20Nandusree&fontSize=42&fontColor=ffffff&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=AI+%26+Machine+Learning+Engineer;Data+Analytics+Enthusiast;Full-Stack+Developer;Building+Intelligent+Systems;Open+to+AI%2FML+Internships+and+Collaborations" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%26+Data+Analytics+Enthusiast;Aspiring+AI%2FML+Engineer;Computer+Science+Student;Building+Intelligent+Solutions+with+Python" />
 
 <br>
 
@@ -11,176 +13,127 @@
 ![](https://img.shields.io/badge/The%20Apollo%20University-India-6D28D9?style=for-the-badge)
 ![](https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-4F46E5?style=for-the-badge)
 
-<br>
+<br><br>
 
-<a href="https://github.com/ds-nandusree">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+<a href="https://ds-nandusree.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/digivasadum-nandusree">
+<a href="https://www.linkedin.com/in/diguvasadum-nandusree">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:dsnandusree@gmail.com">
+<a href="mailto:dsnandu1234@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://github.com/ds-nandusree">
-<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
 </a>
 
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=ds-nandusree&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/ds-nandusree?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/ds-nandusree?style=for-the-badge&color=7C3AED)
 
 </div>
 
 ---
 
-# About Me
+## 🚀 About Me
 
-I am a **Computer Science Engineering undergraduate at The Apollo University** with a strong academic record (**CGPA: 9.82**) and a passion for building intelligent software systems that solve real-world problems.
+I am a **Computer Science Engineering undergraduate at The Apollo University** with a **CGPA of 9.82** and a strong passion for **Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Analytics**.
 
-My primary interests lie in **Artificial Intelligence, Machine Learning, Natural Language Processing, Data Analytics, and Software Engineering**. I enjoy transforming complex datasets into actionable insights and developing scalable AI-powered applications.
-
-I have gained hands-on experience through internships, industry simulations, and independent projects involving:
-
-- Machine Learning Model Development
-- Natural Language Processing
-- Data Analytics & Visualization
-- Full-Stack Development
-- AI Product Engineering
-- Cloud & Deployment Workflows
-- Open Source Collaboration
+My goal is to build intelligent systems that solve real-world problems through data-driven decision making and AI-powered solutions.
 
 ### Open To
 
 - AI/ML Internships
 - Data Science Internships
+- Data Analytics Internships
 - Software Engineering Internships
-- Research Collaborations
-- Open Source Contributions
-- Freelance AI Development Projects
+- Research Opportunities
 
 ---
 
-# Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-
 </p>
 
-### Frontend
+### Data Science & AI
+
+`Machine Learning` • `NLP` • `Pandas` • `NumPy` • `Scikit-Learn`
+
+### Tools & Platforms
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,gcp" />
 </p>
 
-### Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gcp,vscode,linux" />
-
-</p>
-
-### AI / Data Science
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-</p>
-
-**Libraries & Frameworks**
-
-`Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib` • `NLP` • `Streamlit` • `Machine Learning`
+`Streamlit` • `Jupyter Notebook` • `MySQL` • `Data Visualization`
 
 ---
 
-# AI / ML Expertise
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
 | Machine Learning | Advanced | Classification, Regression, Model Evaluation |
-| NLP | Advanced | Text Processing, TF-IDF, Sentence Transformers |
-| Data Analytics | Advanced | Data Cleaning, Visualization, Business Insights |
-| Deep Learning | Intermediate | Neural Network Fundamentals |
-| Generative AI | Intermediate | Prompt Engineering, LLM Applications |
-| Data Visualization | Advanced | Analytical Dashboards & Reporting |
-| Model Deployment | Intermediate | Streamlit Applications |
+| NLP | Advanced | Text Processing, TF-IDF, Resume Parsing |
+| Data Analytics | Advanced | Cleaning, Analysis, Reporting |
+| Data Visualization | Intermediate | Dashboards and Insights |
+| Generative AI | Intermediate | AI Tools & Prompt Engineering |
 | Feature Engineering | Advanced | Data Transformation & Optimization |
 
 ---
 
-# Featured Projects
+## 📌 Featured Projects
 
 <details>
 <summary><b>AI Resume Parser & ATS Analyzer</b></summary>
 
 ### Overview
 
-AI-powered Resume Screening and ATS Analysis Platform built using NLP and Sentence Transformers.
+AI-powered Resume Screening System using NLP and Sentence Transformers.
 
 | Category | Details |
 |-----------|---------|
 | Stack | Python, Streamlit, NLP, Scikit-Learn, Sentence Transformers |
-| Scale | Multi-Resume Processing |
-| Performance | Fast Semantic Similarity Matching |
-| Security | Local Processing Workflow |
 | Impact | Automated Resume Evaluation |
-| Repository | https://github.com/ds-nandusree/AI-Resume-Parser-ATS-System |
+| Repository | Available on GitHub |
 
-### Project Highlights
+#### Features
 
 - ATS Score Calculation
-- Skill Extraction Engine
-- Resume Parsing Pipeline
-- Semantic Job Matching
-- Interactive Streamlit Dashboard
-- Recruiter-Friendly Reporting
+- Skill Extraction
+- Resume Parsing
+- Job Matching
+- Streamlit Dashboard
 
 </details>
 
 <details>
-<summary><b>TruthLens AI — Fake News Detection System</b></summary>
+<summary><b>TruthLens AI – Fake News Detection System</b></summary>
 
 ### Overview
 
-Machine Learning-based NLP platform designed to identify misleading and fake news articles.
+Machine Learning-based NLP application for fake news detection.
 
 | Category | Details |
 |-----------|---------|
 | Stack | Python, NLP, Scikit-Learn, Streamlit |
-| Scale | Real-Time Text Analysis |
-| Performance | 92% Classification Accuracy |
-| Security | Input Validation Pipeline |
-| Impact | Misinformation Detection |
-| Repository | https://github.com/ds-nandusree/TruthLens-AI-Fake-News-Detection |
+| Accuracy | 92% |
+| Impact | Real-Time Fake News Detection |
 
-### Project Highlights
+#### Features
 
 - TF-IDF Vectorization
-- Logistic Regression Classifier
-- Streamlit Deployment
-- NLP Preprocessing Pipeline
-- Interactive Prediction Interface
+- Logistic Regression
+- NLP Preprocessing
+- Interactive UI
 
 </details>
 
@@ -189,184 +142,116 @@ Machine Learning-based NLP platform designed to identify misleading and fake new
 
 ### Overview
 
-Healthcare-focused machine learning system developed during CDHPM internship.
+Healthcare-focused AI project developed during CDHPM Internship.
 
 | Category | Details |
 |-----------|---------|
 | Stack | Python, Machine Learning |
-| Scale | Healthcare Dataset Analysis |
-| Performance | Risk Prediction Models |
-| Security | Structured Data Pipeline |
-| Impact | Early Stroke Detection |
-| Repository | Private Internship Project |
+| Domain | Healthcare AI |
+| Impact | Early Risk Detection |
 
-### Project Highlights
+#### Features
 
 - Feature Engineering
-- Data Cleaning
-- Predictive Analytics
 - Classification Models
-- Healthcare AI Applications
+- Data Processing
+- Predictive Analytics
 
 </details>
 
 ---
 
-# Experience
+## 💼 Experience
 
-## AI Intern — YHills
+### Virtual Data Analytics Intern — Deloitte (Forage)
 
-**Apr 2024 – May 2024**
+**December 2025**
 
-Worked on supervised machine learning workflows and predictive analytics projects.
-
-### Scope of Work
-
-- Developed Machine Learning models using Scikit-Learn
-- Performed Data Preprocessing
-- Conducted Feature Engineering
-- Evaluated Models using Precision, Recall and F1 Score
-- Generated analytical insights
-
-**Skills**
-
-`Python` `Machine Learning` `Scikit-Learn` `Data Analysis`
+- Data cleaning and validation
+- Analytical reporting
+- Business insights generation
+- Structured dataset analysis
 
 ---
 
-## CDHPM Internship — AI Healthcare Project
+### CDHPM Internship — AI Healthcare Project
 
-**Jun 2025**
+**June 2025**
 
-Built healthcare-focused AI systems for stroke risk prediction.
-
-### Scope of Work
-
-- Developed end-to-end ML pipeline
+- Developed stroke prediction solution
+- Built ML pipelines
 - Trained classification models
-- Conducted feature engineering
-- Processed healthcare datasets
-- Implemented predictive analytics
-
-**Skills**
-
-`Healthcare AI` `Machine Learning` `Python`
+- Healthcare data analysis
 
 ---
 
-## Virtual Data Analytics Intern — Deloitte (Forage)
+### AI Intern — YHills
 
-**Dec 2025**
+**April 2024 – May 2024**
 
-Completed real-world data analytics simulation involving structured datasets.
-
-### Scope of Work
-
-- Data Cleaning
-- Data Validation
-- Analytical Reporting
-- Business Insights Generation
-- Data Interpretation
-
-**Skills**
-
-`Data Analytics` `Excel` `Business Intelligence`
+- Machine Learning model development
+- Data preprocessing
+- Feature engineering
+- Model evaluation
 
 ---
 
-# Achievements
+## 🎓 Education
 
-| Recognition | Details |
-|------------|-----------|
-| Academic Excellence | CGPA 9.82 in B.Tech CSE |
-| AI Projects | Developed Multiple End-to-End AI Applications |
-| NLP Engineering | Built Resume Parser and Fake News Detection Systems |
-| Industry Experience | Deloitte, CDHPM, YHills Internship Experience |
-| Data Science Learning | Multiple Elite Certifications |
+| Qualification | Institution | Score |
+|--------------|------------|---------|
+| B.Tech CSE | The Apollo University | CGPA: 9.82 |
+| Intermediate (MPC) | Sri Chaitanya Junior College | 95.1% |
 
 ---
 
-# Certifications
+## 🏆 Certifications
 
-### AWS
-
-![](https://img.shields.io/badge/AWS-Learning-orange?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-red?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Data%20Science%20for%20Engineers-Elite-purple?style=for-the-badge)
-
-![](https://img.shields.io/badge/NPTEL-Machine%20Learning-Elite-purple?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-
-### Other Certifications
-
-![](https://img.shields.io/badge/Anthropic-AI%20Fluency-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Google%20Cloud-Cloud%20Fundamentals-4285F4?style=for-the-badge&logo=googlecloud)
+- NPTEL – Data Science for Engineers (Elite)
+- NPTEL – Machine Learning (Elite)
+- Anthropic – AI Fluency: Framework & Foundations
+- Google Cloud Skills Boost – Cloud Computing Fundamentals
 
 ---
 
-# Coding Profiles
+## 🌐 Portfolio
+
+**Portfolio Website:**  
+https://ds-nandusree.github.io/portfolio/
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode">
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ds-nandusree&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks">
-</a>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ds-nandusree&theme=tokyonight&hide_border=true"/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Programming%20Skills-00EA64?style=for-the-badge&logo=hackerrank">
-</a>
+</div>
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge">
-</a>
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-nandusree&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Analytics
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ds-nandusree&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ds-nandusree&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds-nandusree&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ds-nandusree&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ds-nandusree&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -376,68 +261,39 @@ Completed real-world data analytics simulation involving structured datasets.
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# Current Focus
+## 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Advanced Machine Learning
-  - Deep Learning
+  - Machine Learning
+  - Natural Language Processing
+  - Data Analytics
   - Generative AI
-  - MLOps
 
 Building:
   - AI Resume Parser & ATS Analyzer
-  - Data Analytics Portfolio
-  - AI Engineering Projects
-
-Exploring:
-  - LLM Applications
-  - Agentic AI
-  - Open Source Contributions
+  - Data Analytics Projects
+  - AI Portfolio Projects
 
 Open_To:
   - AI/ML Internships
-  - Software Engineering Roles
-  - Research Opportunities
-  - Freelance Projects
+  - Data Science Opportunities
+  - Software Engineering Internships
 ```
 
----
+## 🤝 Connect With Me
 
-# Connect
-
-<div align="center">
-
-<a href="mailto:dsnandusree@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dsnandusree@gmail.com-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/digivasadum-nandusree">
-<img src="https://img.shields.io/badge/LinkedIn-Diguvasadum%20Nandusree-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/ds-nandusree">
-<img src="https://img.shields.io/badge/GitHub-ds--nandusree-black?style=for-the-badge&logo=github">
-</a>
-
-</div>
+- Portfolio: https://ds-nandusree.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/diguvasadum-nandusree
+- GitHub: https://github.com/ds-nandusree
+- Email: dsnandu1234@gmail.com
 
 ---
 
 <div align="center">
 
-### "Engineering intelligent solutions that transform data into impact."
+### Transforming data into insights and ideas into intelligent solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
 </div>
