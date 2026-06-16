@@ -286,7 +286,7 @@ Open_To:
 - Portfolio: https://ds-nandusree.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/diguvasadum-nandusree
 - GitHub: https://github.com/ds-nandusree
-- Email: dsnandu1234@gmail.com
+- Email: dsnandusree@gmail.com
 
 ---
 
